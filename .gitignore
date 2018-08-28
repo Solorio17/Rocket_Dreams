@@ -3,7 +3,11 @@
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
+<<<<<<< HEAD
 /Sounds
+=======
+Sounds/
+>>>>>>> b1ed581521b45fa697624feffa8b6aeb2e5d8458
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
